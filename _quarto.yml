@@ -1,0 +1,24 @@
+project:
+  type: website
+
+# Make sure that code is only executed locally
+# Source: https://quarto.org/docs/publishing/netlify.html#freezing-computations-1
+execute:
+  freeze: auto  # Re-render only when source changes
+  
+website:
+  title: "demo-compendium"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
