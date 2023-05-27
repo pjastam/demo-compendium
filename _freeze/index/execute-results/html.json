@@ -1,7 +1,7 @@
 {
-  "hash": "1fc844313616cb8861b42633025428c8",
+  "hash": "f6c6a074ff9c7a143f84647e2643beaf",
   "result": {
-    "markdown": "---\ntitle: \"demo-compendium\"\n---\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: \"The longer title of my research topic\"\nauthor:\n- name: Piet Stam\n  affiliation: VU University Amsterdam\n  orcid: 0000-0003-3680-6391\n  url: https://www.pietstam.nl/\n  email: sci@pietstam.nl\nformat:\n  html:\n    code-tools: false\n    toc: false\nsidebar: false\n---\n\n\nThis Quarto website contains my research compendium.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

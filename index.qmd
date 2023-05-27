@@ -1,11 +1,20 @@
 ---
-title: "demo-compendium"
+title: "The longer title of my research topic"
+author:
+- name: Piet Stam
+  affiliation: VU University Amsterdam
+  orcid: 0000-0003-3680-6391
+  url: https://www.pietstam.nl/
+  email: sci@pietstam.nl
+format:
+  html:
+    code-tools: false
+    toc: false
+sidebar: false
 ---
 
-This is a Quarto website.
+This Quarto website contains my research compendium.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
+```{r example}
 1 + 1
 ```
