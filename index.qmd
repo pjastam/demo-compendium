@@ -5,7 +5,7 @@ author:
   affiliation: VU University Amsterdam
   orcid: 0000-0003-3680-6391
   url: https://www.pietstam.nl/
-  email: sci@pietstam.nl
+  email: email@example.com
 format:
   html:
     code-tools: false
