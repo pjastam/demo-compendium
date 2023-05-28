@@ -15,6 +15,6 @@ sidebar: false
 
 This Quarto website contains my research compendium.
 
-```{r example}
+```{r}
 1 + 1
 ```

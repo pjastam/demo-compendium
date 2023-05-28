@@ -1,4 +1,4 @@
 - source: project
   netlify:
-    - id: "57ce2251-fc2a-479c-82be-bd502fe7fffe"
-      url: "https://jazzy-truffle-6d2504.netlify.app"
+    - id: 57ce2251-fc2a-479c-82be-bd502fe7fffe
+      url: 'https://jazzy-truffle-6d2504.netlify.app'
