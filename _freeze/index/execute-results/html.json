@@ -2,9 +2,7 @@
   "hash": "a6f8da75876c3b109f986296a04a0b90",
   "result": {
     "markdown": "---\ntitle: \"The longer title of my research topic\"\nauthor:\n- name: Piet Stam\n  affiliation: VU University Amsterdam\n  orcid: 0000-0003-3680-6391\n  url: https://www.pietstam.nl/\n  email: email@example.com\nformat:\n  html:\n    code-tools: false\n    toc: false\nsidebar: false\n---\n\n\nThis Quarto website contains my research compendium.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
-    "supporting": [
-      "index_files"
-    ],
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
